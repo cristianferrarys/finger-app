@@ -1,5 +1,7 @@
 {
   "name": "finger-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
